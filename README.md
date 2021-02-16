@@ -1,0 +1,1 @@
+Test Contentful integration with Rails
